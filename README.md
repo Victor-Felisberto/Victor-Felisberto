@@ -5,7 +5,7 @@
 - 💼 Procurando uma estágio na de desenvolvolvimento.
 - 🌱 Aprendendo mais sobre Html,Css,Javascript,pyton.
 
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui estão meus canais para entrar em contato : ⤵️
 </p>
 
 <p align="left">
