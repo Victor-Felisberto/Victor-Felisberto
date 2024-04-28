@@ -20,7 +20,7 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github.com/Victor-Felisberto/Victor-Felisberto/tree/main)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
