@@ -1,9 +1,9 @@
-##  Olá, meu nome é Victor Hugo Felisberto!
+##  Olá, meu nome é Victor Hugo!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Full Stack} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre Html,Css,Javascript.
+- 🎓 Formado em SIstema de informação e estudando desenvolvedotr Full Stack na Infinity School.
+- 💼 Procurando uma estágio na de desenvolvolvimento.
+- 🌱 Aprendendo mais sobre Html,Css,Javascript,pyton.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
