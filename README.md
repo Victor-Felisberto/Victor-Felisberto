@@ -2,8 +2,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em SIstema de informação e estudando desenvolvedotr Full Stack na Infinity School.
-- 💼 Procurando uma estágio na de desenvolvolvimento.
-- 🌱 Aprendendo mais sobre Html,Css,Javascript,pyton.
+- 💼 Procurando um estágio na área de desenvolvolvimento.
+- 🌱 Aprendendo mais sobre Html,Css,Javascript,Pyton.
 
   💌 Aqui estão meus canais para entrar em contato : 
 </p>
