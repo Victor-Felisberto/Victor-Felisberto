@@ -31,6 +31,6 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victorcode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victor&show_icons=true)
 
 
